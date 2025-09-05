@@ -1,1 +1,1 @@
-# Ethereum-Price-Prediction
+# Eth_price_pred
